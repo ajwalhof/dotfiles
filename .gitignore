@@ -1,0 +1,10 @@
+*
+!.bash_sessions_disable
+!.bashrc
+!.gitconfig
+!.gitignore
+!.mysql_history
+!.path
+!.php_history
+!.zshrc
+

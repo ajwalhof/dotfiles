@@ -1,0 +1,6 @@
+# Add PHP 8.1 binaries to the PATH
+export PATH="/usr/local/opt/php@8.1/bin":$PATH
+
+# Add user's local bin directory to the PATH
+export PATH="$HOME/.bin":$PATH
+
