@@ -3,6 +3,7 @@
 !.bashrc
 !.gitconfig
 !.gitignore
+!.gitignore_global
 !.mysql_history
 !.npmrc
 !.path
