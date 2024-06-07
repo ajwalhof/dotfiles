@@ -4,6 +4,7 @@
 !.gitconfig
 !.gitignore
 !.mysql_history
+!.npmrc
 !.path
 !.php_history
 !.vimrc
