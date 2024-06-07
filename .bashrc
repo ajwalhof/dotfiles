@@ -1,5 +1,6 @@
 unset HISTFILE
 export LESSHISTFILE="/dev/null"
+export NODE_REPL_HISTORY=""
 
 if [ -f ~/.path ]; then
 	source ~/.path
