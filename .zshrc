@@ -1,5 +1,10 @@
+# Disable history file.
 unset HISTFILE
+
+# Prevent history logging for less command.
 export LESSHISTFILE="/dev/null"
+
+# Disable Node.js REPL history logging.
 export NODE_REPL_HISTORY=""
 
 # Disable zsh compfix to prevent the 'zsh compinit: insecure directories'
