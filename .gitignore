@@ -1,6 +1,4 @@
 *
-!.bash_sessions_disable
-!.bashrc
 !.gitconfig
 !.gitignore
 !.gitignore_global
