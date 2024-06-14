@@ -4,3 +4,6 @@ export PATH="/usr/local/opt/php@8.1/bin":$PATH
 # Add user's local bin directory to the PATH
 export PATH="$HOME/.bin":$PATH
 
+# Add Visual Studio Code's command-line tools to the PATH
+export PATH="/Applications/Visual Studio Code.app/Contents/Resources/app/bin":$PATH
+
